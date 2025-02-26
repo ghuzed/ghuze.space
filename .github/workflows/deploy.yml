@@ -28,4 +28,4 @@ jobs:
 
     - name: Run the new Docker container
       run: |
-        docker run -d --name ghuze.space -p 8006:80 ghuze.space:${{ github.sha }}
+        docker run -d --name ghuze.space -p 8009:80 ghuze.space:${{ github.sha }}
