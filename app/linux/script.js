@@ -1,18 +1,19 @@
 const images = [
-    "./images/icon1.png",
-    "./images/icon2.png",
-    "./images/icon3.png",
-    "./images/icon4.png",
-    "./images/icon5.svg",
-    "./images/icon6.svg",
-    "./images/icon7.png",
+  "./images/icon1.webp",
+  "./images/icon2.webp",
+  "./images/icon3.webp",
+  "./images/icon4.webp",
+  "./images/icon5.webp",
+  "./images/icon6.webp",
+  "./images/icon7.webp",
     "./images/icon8.webp",
-    "./images/icon9.png",
-    "./images/icon10.png",
-    "./images/icon11.png",
-    "./images/icon12.png",
-    "./images/icon13.png"
+  "./images/icon9.webp",
+  "./images/icon10.webp",
+  "./images/icon11.webp",
+  "./images/icon12.webp",
+  "./images/icon13.webp"
   ];
+
 const tileSize = 128;
 const mosaic = document.querySelector(".mosaic");
 
